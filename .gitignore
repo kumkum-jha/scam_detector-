@@ -1,0 +1,12 @@
+# Java / Maven
+backend/target/
+backend/.mvn/
+backend/src/main/java/com/scamguard/ai/config/oracleJdk-27/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
